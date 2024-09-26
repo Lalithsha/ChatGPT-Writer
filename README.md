@@ -5,7 +5,7 @@ This template should help get you started developing with React in WXT.
 
 ## Video Recorded
 
-![Chrome Extension Demonstration](https://github.com/user-attachments/assets/97315acf-3ffe-4fe2-8519-c582f7b2045e)
+https://github.com/user-attachments/assets/97315acf-3ffe-4fe2-8519-c582f7b2045e
 
 
 ## About
